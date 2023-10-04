@@ -1,0 +1,148 @@
+.chevronleftfilled-icon {
+  position: absolute;
+  top: 0px;
+  left: 6px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.personal-information {
+  position: absolute;
+  top: 9px;
+  left: 0px;
+  font-size: var(--sub-title-dark-2-size);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 390px;
+  height: 44px;
+}
+.we-will-use {
+  position: absolute;
+  top: 53px;
+  left: 16px;
+  font-size: var(--font-size-xs);
+  display: flex;
+  align-items: center;
+  width: 359px;
+  height: 48px;
+}
+.your-tickets-overview {
+  position: absolute;
+  top: 330px;
+  left: 18px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-family: var(--header-dark);
+  display: flex;
+  align-items: center;
+  width: 242px;
+  height: 36px;
+}
+.payment {
+  position: absolute;
+  top: 525px;
+  left: 18px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-family: var(--header-dark);
+  display: flex;
+  align-items: center;
+  width: 242px;
+  height: 36px;
+}
+.best-of-prague {
+  position: absolute;
+  top: 5px;
+  left: 11px;
+  font-size: var(--header-dark-size);
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--header-dark);
+  display: flex;
+  align-items: center;
+  width: 335px;
+  height: 41px;
+}
+.sunday-sept-3 {
+  position: absolute;
+  top: 50px;
+  left: 41px;
+  display: flex;
+  align-items: center;
+  width: 208px;
+  height: 32px;
+}
+.calendar {
+  position: absolute;
+  top: 51px;
+  left: 11px;
+  font-size: var(--sub-title-dark-2-size);
+  font-family: var(--font-sf-pro);
+  text-align: center;
+}
+.frame-child {
+  position: absolute;
+  top: 100.5px;
+  left: 14.5px;
+  border-top: 1px solid var(--text);
+  box-sizing: border-box;
+  width: 314px;
+  height: 1px;
+}
+.hour-pass- {
+  position: absolute;
+  top: 114px;
+  left: 17px;
+  display: flex;
+  align-items: center;
+  width: 210px;
+  height: 16px;
+}
+.us {
+  position: absolute;
+  top: 113px;
+  left: 248px;
+  display: flex;
+  align-items: center;
+  width: 95px;
+  height: 17px;
+}
+.best-of-prague-boat-tours-parent {
+  position: absolute;
+  top: 371px;
+  left: 18px;
+  border-radius: var(--br-5xs);
+  background-color: var(--light-grey);
+  width: 351px;
+  height: 149px;
+  overflow: hidden;
+  font-size: var(--font-size-smi);
+}
+.hotel-book-child {
+  position: absolute;
+  top: 568px;
+  left: 22px;
+  border-radius: var(--br-5xs);
+  background-color: var(--light-grey);
+  width: 347px;
+  height: 168px;
+  overflow: hidden;
+}
+.hotel-book {
+  position: relative;
+  background-color: var(--bg-color);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--header-dark-size);
+  color: var(--text);
+  font-family: var(--text-body);
+}

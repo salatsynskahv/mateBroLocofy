@@ -1,0 +1,345 @@
+.prague {
+  position: absolute;
+  top: 198px;
+  left: 0px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  display: flex;
+  font-family: var(--header-dark);
+  color: var(--warning-contrast);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 212px;
+  height: 62px;
+  text-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+}
+.welcome-to {
+  position: absolute;
+  top: 183px;
+  left: 0px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-family: var(--font-sf-compact-text);
+  color: var(--warning-contrast);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 30px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.image-4-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 268px;
+  object-fit: cover;
+}
+.chevronleftfilled-icon2 {
+  position: absolute;
+  top: 8px;
+  left: 6px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.best-of-prague1 {
+  position: absolute;
+  top: 219px;
+  left: 0px;
+  font-size: var(--sub-title-dark-2-size);
+  display: flex;
+  color: var(--warning-contrast);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 316px;
+  height: 49px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.summary {
+  position: absolute;
+  top: 350px;
+  left: 18px;
+  font-size: var(--sub-title-dark-2-size);
+  display: flex;
+  align-items: center;
+  width: 368px;
+  height: 40px;
+}
+.image-7-icon {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 90px;
+  height: 62px;
+  object-fit: cover;
+}
+.image-8-icon {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 90px;
+  height: 61.84px;
+  object-fit: cover;
+}
+.image-7-parent {
+  position: absolute;
+  top: 277px;
+  left: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 22px;
+  left: 14px;
+  font-size: var(--components-button-large-size);
+  display: flex;
+  align-items: center;
+  width: 315px;
+  height: 56px;
+}
+.read-more {
+  position: absolute;
+  top: 104px;
+  left: 207px;
+  text-decoration: underline;
+  color: var(--warning-main);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 122px;
+  height: 25px;
+  cursor: pointer;
+}
+.us2 {
+  position: absolute;
+  top: 101px;
+  left: 2px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 172px;
+  height: 32px;
+}
+.from {
+  position: absolute;
+  top: 82px;
+  left: 20px;
+  font-size: var(--header-dark-size);
+  display: flex;
+  align-items: center;
+  width: 52px;
+  height: 26px;
+}
+.lorem-ipsum-dolor-sit-amet-con-parent {
+  position: absolute;
+  top: 396px;
+  left: 19px;
+  border-radius: var(--br-5xs);
+  background-color: var(--light-grey);
+  width: 342px;
+  height: 144px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  font-family: var(--text-body);
+}
+.overview {
+  position: absolute;
+  top: 573px;
+  left: 21px;
+  font-size: var(--sub-title-dark-2-size);
+  display: flex;
+  align-items: center;
+  width: 368px;
+  height: 40px;
+}
+.hours-approx {
+  position: absolute;
+  top: 0px;
+  left: 74px;
+  display: flex;
+  align-items: center;
+  width: 316px;
+  height: 58px;
+}
+.clock {
+  position: absolute;
+  top: 11px;
+  left: 33px;
+  font-family: var(--font-sf-pro);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 29px;
+  height: 37px;
+}
+.hours-approx-parent {
+  position: absolute;
+  top: 613px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 58px;
+  overflow: hidden;
+}
+.calendar2 {
+  position: absolute;
+  top: 12px;
+  left: 32px;
+  font-family: var(--font-sf-pro);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 37px;
+}
+.next-available-tomorrow-parent {
+  position: absolute;
+  top: 670px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 58px;
+  overflow: hidden;
+}
+.checkmarkseal {
+  position: absolute;
+  top: 11px;
+  left: 32px;
+  font-family: var(--font-sf-pro);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 31px;
+  height: 37px;
+}
+.instant-confirmation-parent {
+  position: absolute;
+  top: 727px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 58px;
+  overflow: hidden;
+}
+.email-ticket {
+  position: absolute;
+  top: 0px;
+  left: 74px;
+  display: flex;
+  align-items: center;
+  width: 316px;
+  height: 57px;
+}
+.ticket {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  font-family: var(--font-sf-pro);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 35px;
+  height: 37px;
+}
+.email-ticket-parent {
+  position: absolute;
+  top: 784px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 58px;
+  overflow: hidden;
+}
+.dollarsignarrowcirclepath {
+  position: absolute;
+  top: 10px;
+  left: 32px;
+  font-family: var(--font-sf-pro);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 31px;
+  height: 37px;
+}
+.free-cancellation-parent {
+  position: absolute;
+  top: 841px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 57px;
+  overflow: hidden;
+}
+.group-size-25-parent {
+  position: absolute;
+  top: 897px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 58px;
+  overflow: hidden;
+}
+.globe {
+  position: absolute;
+  top: 10px;
+  left: 22px;
+  font-family: var(--font-sf-pro);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 51px;
+  height: 37px;
+}
+.available-in-english-parent {
+  position: absolute;
+  top: 954px;
+  left: 0px;
+  background-color: var(--warning-contrast);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 390px;
+  height: 58px;
+  overflow: hidden;
+}
+.hotel-activities-boat-tour {
+  position: relative;
+  background-color: var(--bg-color);
+  width: 100%;
+  height: 1088px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--header-dark-size);
+  color: var(--text);
+  font-family: var(--sub-title-dark-2);
+}

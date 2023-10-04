@@ -1,0 +1,68 @@
+.image-4-icon3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-21xl);
+  width: 357px;
+  height: 268px;
+  object-fit: cover;
+}
+.best-of-prague6 {
+  position: absolute;
+  top: 268px;
+  left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 357px;
+  height: 49px;
+}
+.us6 {
+  position: absolute;
+  top: 376px;
+  left: 179px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 172px;
+  height: 32px;
+}
+.from4 {
+  position: absolute;
+  top: 373px;
+  left: 27px;
+  font-size: var(--header-dark-size);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 52px;
+  height: 26px;
+}
+.lorem-ipsum-dolor2 {
+  position: absolute;
+  top: 317px;
+  left: 27px;
+  font-size: var(--components-button-large-size);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 305px;
+  height: 48px;
+}
+.boat1 {
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 357px;
+  height: 411px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--sub-title-dark-2-size);
+  color: var(--text);
+  font-family: var(--text-body);
+}

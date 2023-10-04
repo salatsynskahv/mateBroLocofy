@@ -1,0 +1,82 @@
+.first-name {
+  position: absolute;
+  top: 8px;
+  left: 18px;
+  display: flex;
+  align-items: center;
+  width: 78px;
+  height: 18px;
+}
+.email {
+  position: absolute;
+  top: 67px;
+  left: 18px;
+  display: flex;
+  align-items: center;
+  width: 78px;
+  height: 18px;
+}
+.phone-number {
+  position: absolute;
+  top: 141px;
+  left: 18px;
+  display: flex;
+  align-items: center;
+  width: 127px;
+  height: 18px;
+}
+.last-name {
+  position: absolute;
+  top: 8px;
+  left: 189px;
+  display: flex;
+  align-items: center;
+  width: 78px;
+  height: 18px;
+}
+.frame-item {
+  position: absolute;
+  top: 49.5px;
+  left: 18px;
+  width: 110px;
+  height: 1px;
+  object-fit: cover;
+}
+.frame-inner {
+  position: absolute;
+  top: 110.5px;
+  left: 18px;
+  width: 310px;
+  height: 2px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  top: 182.5px;
+  left: 18px;
+  width: 310px;
+  height: 2px;
+  object-fit: cover;
+}
+.frame-child1 {
+  position: absolute;
+  top: 49.5px;
+  left: 189px;
+  width: 139px;
+  height: 1px;
+  object-fit: cover;
+}
+.first-name-parent {
+  position: absolute;
+  top: 102px;
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--light-grey);
+  width: 353px;
+  height: 214px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--text);
+  font-family: var(--text-body);
+}

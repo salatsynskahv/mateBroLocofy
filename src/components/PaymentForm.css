@@ -1,0 +1,101 @@
+.circle {
+  position: relative;
+}
+.paypal {
+  position: relative;
+  font-size: var(--header-dark-size);
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--header-dark);
+  text-align: left;
+  display: inline-block;
+  width: 189px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.paypal-icon {
+  position: relative;
+  width: 29px;
+  height: 29px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.circle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.google-pay-icon {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.circle-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.credit-card {
+  position: relative;
+  font-size: var(--header-dark-size);
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--header-dark);
+  text-align: left;
+  display: inline-block;
+  width: 138px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.visa-icon {
+  position: relative;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.discover-icon {
+  position: relative;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+.visa-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.circle-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent1 {
+  position: absolute;
+  top: 583px;
+  left: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  text-align: center;
+  font-size: var(--sub-title-dark-2-size);
+  color: var(--text);
+  font-family: var(--font-sf-pro);
+}

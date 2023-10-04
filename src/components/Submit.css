@@ -1,0 +1,48 @@
+.paperplanecircle {
+  position: absolute;
+  top: 63px;
+  left: 298px;
+}
+.envelope {
+  position: absolute;
+  top: 112px;
+  left: 91px;
+  font-size: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 186px;
+  height: 169px;
+}
+.ticket-sent-to {
+  position: absolute;
+  top: 24px;
+  left: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 269px;
+  height: 106px;
+}
+.we-look-forward {
+  position: absolute;
+  top: 285px;
+  left: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 269px;
+  height: 169px;
+}
+.submit {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--light-grey);
+  width: 100%;
+  height: 484px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--sub-title-dark-2-size);
+  color: var(--text);
+  font-family: var(--font-sf-pro);
+}

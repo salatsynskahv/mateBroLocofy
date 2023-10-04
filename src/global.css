@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Compact+Rounded:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Compact+Text:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Compact+Display:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --components-button-large: Roboto;
+  --font-sf-pro: "SF Pro";
+  --header-dark: "SF Compact Rounded";
+  --text-body: Inter;
+  --sub-title-dark-2: "SF Compact Display";
+  --font-sf-compact-text: "SF Compact Text";
+
+  /* font sizes */
+  --components-button-large-size: 15px;
+  --sub-title-dark-2-size: 24px;
+  --header-dark-size: 16px;
+  --font-size-smi: 13px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --warning-main: #ed6c02;
+  --warning-contrast: #fff;
+  --color-gainsboro-100: #e7e7e7;
+  --light-grey: #ddd;
+  --text: #000;
+  --bg-color: #bababa;
+  --dark-grey: #a4a4a4;
+  --color-gray-100: rgba(255, 255, 255, 0.5);
+  --color-gray-200: rgba(0, 0, 0, 0.25);
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-6xs: 7px;
+  --gap-3xs: 10px;
+  --gap-xs: 12px;
+  --gap-2xs: 11px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-3xl: 22px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-xl: 20px;
+  --br-5xs: 8px;
+  --br-21xl: 40px;
+
+  /* Effects */
+  --elevation-2: 0px 1px 5px rgba(0, 0, 0, 0.12),
+    0px 2px 2px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
